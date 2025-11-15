@@ -1,0 +1,21 @@
+RAG QUESTIONS AND REFERENCE ANSWERS (World Bank Trust Fund Annual Report 2021)
+
+1. What role did trust funds and financial intermediary funds (FIFs) play in the World Bank Group’s COVID-19 response?
+Reference (Pages iv–v):
+Trust funds and FIFs supported $7.9B in recipient-executed crisis response activities, contributing to emergency health, vaccine deployment, education continuity, and social protection measures within the larger $157B World Bank Group response framework.
+
+2. How do trust funds complement core IBRD and IDA financing?
+Reference (Pages 1–2, Section 1.1):
+Trust funds supplement core lending by expanding analytical work, piloting innovations, supporting capacity building, and enabling work in fragile and non-member regions where core lending cannot operate. They also help address public goods issues like climate, pandemics, and crisis response.
+
+3. What is the purpose of the Umbrella 2.0 Program structure?
+Reference (Pages 14–16):
+Umbrella 2.0 consolidates many fragmented trust funds into fewer, larger strategic programs with shared governance, unified results frameworks, and streamlined reporting. This allows for stronger alignment with development priorities and more scalable impact delivery.
+
+4. Which types of countries received the largest portion of recipient-executed trust fund disbursements in FY2021?
+Reference (Pages 68–69, Table 4.2 and analysis):
+Over 50% of recipient-executed trust fund disbursements supported countries facing fragility, conflict, and violence, including Afghanistan, Sudan, Mozambique, and the Democratic Republic of Congo, reflecting prioritized support to vulnerable environments.
+
+5. How are trust funds helping build resilience in areas like health, climate, gender, and social protection?
+Reference (Pages iv–v overview and Chapter 3 thematic cases):
+Trust funds supported multi-year systemic resilience-building initiatives across health service equity in Cambodia, climate resilience in the Amazon region, digital financial inclusion for women in East Africa, and nationwide social protection expansion in Zambia.

@@ -1,0 +1,10 @@
+pillow
+tqdm
+notebook
+ipywidgets
+streamlit
+cohere
+openai
+python-dotenv
+faiss-cpu
+pymupdf

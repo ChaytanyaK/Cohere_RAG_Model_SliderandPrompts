@@ -1,0 +1,15 @@
+.env
+.DS_Store
+__pycache__/
+*.pyc
+
+# Data artifacts generated at runtime
+data/cache/
+data/chat/
+data/processed/
+
+# Streamlit state
+.streamlit/
+
+# Notebook noise
+notebooks/.ipynb_checkpoints/
